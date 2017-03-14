@@ -1,0 +1,4 @@
+#record for aki
+
+2017/3/14 
+  10:30 将unity项目生成为apk时，由于SDK/build-tools/24.0.0 版本较新，与unity不兼容，故将其删除
