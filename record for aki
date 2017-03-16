@@ -2,3 +2,9 @@
 
 2017/3/14 
   10:30 将unity项目生成为apk时，由于SDK/build-tools/24.0.0 版本较新，与unity不兼容，故将其删除
+
+2017/3/15
+  下载CardboardSDKForUnity.unitypackage，在editor中正常运行，生成Android Apk后闪退，原因待查
+  
+2017/3/16
+  上课、玩手机、上课玩手机
